@@ -1,9 +1,3 @@
-- 👋 Hi, I’m bountyoverload
-- 👀 I’m interested in Web Application Security and Binary Exploitation
-- 🌱 I’m currently learning to construct a better approach when testing web applications and EVERYTHING XSS!
-- 💞️ I’m looking to collaborate in bug bounties
-- 📫 How to reach me : bountyoverload#4673.
-
 xss2win
 
 <!---
